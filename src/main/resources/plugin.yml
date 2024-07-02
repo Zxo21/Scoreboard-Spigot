@@ -1,0 +1,4 @@
+name: ScoreBoard
+version: '${project.version}'
+main: com.juan.scoreboardplugin.Main
+api-version: '1.20'
